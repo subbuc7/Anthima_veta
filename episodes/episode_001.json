@@ -1,0 +1,96 @@
+{
+  "episode": 1,
+  "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
+  "scenes": [
+    {
+      "scene_number": 1,
+      "title": "The Shadow in the Sparks",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "Arjun auto garage at 4am night, welding sparks raining down, cinematic lighting, industrial dark background",
+      "character_action_prompt": "cinematic shot of rugged 42yo South Indian covert operative Aditya Varma, sharp eyes, messy dark hair with subtle grey, trimmed beard, black work shirt, wiping oil, observant tactical posture, welding sparks glowing in background, 35mm film photography, 8k",
+      "camera_motion": "push_in",
+      "dialogues": [
+        {
+          "speaker": "Narrator",
+          "text": "హైదరాబాద్ శివారులో... అర్ధరాత్రి దాటిన వేళ...",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-4Hz",
+          "rate": "-5%"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "title": "The Uninvited Engine",
+      "duration": 12,
+      "active_character": "arjun",
+      "setting_description": "Approach road to garage, unmarked black SUV with headlights off in mist, cold moonlight",
+      "character_action_prompt": "cinematic shot of 24yo Indian mechanic Arjun in dark overalls with grease marks, nervous expression, looking through garage shutter gaps into darkness, moody shadows, cinematic lighting, 8k",
+      "camera_motion": "pan_left",
+      "dialogues": [
+        {
+          "speaker": "Arjun",
+          "text": "అన్నా... ఈ టైమ్‌లో కస్టమర్లా? లేక దారి తప్పిన వాళ్లా?",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "+4Hz",
+          "rate": "+0%"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "title": "Silent Preparation",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "Inside workshop workbench, swinging single incandescent bulb, dark tool racks",
+      "character_action_prompt": "cinematic close-up of Aditya Varma, intense cold eyes, slipping heavy steel wrench into black sleeve, completely calm and dangerous, tactical posture, volumetric dust in light beam, 8k",
+      "camera_motion": "push_in",
+      "dialogues": [
+        {
+          "speaker": "Aditya",
+          "text": "అర్జున్... లోపలికి వెళ్లి వెనుక తలుపు బోల్ట్ వెయ్యి.",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-6Hz",
+          "rate": "-3%"
+        }
+      ]
+    },
+    {
+      "scene_number": 4,
+      "title": "Breach on the Perimeter",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "Side alley of workshop, two masked tactical mercenaries climbing wall with suppressed pistols",
+      "character_action_prompt": "cinematic shot of tactical black mercenaries sneaking near metal corrugated wall, dark blue moonlight, suppressed handguns, high tension cinematic thriller atmosphere, 8k",
+      "camera_motion": "pan_right",
+      "dialogues": [
+        {
+          "speaker": "Narrator",
+          "text": "పదిహేడేళ్లుగా దాక్కున్న ఆ నిజం... ఈ రాత్రి వెలుగు చూడబోతోంది.",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-4Hz",
+          "rate": "-5%"
+        }
+      ]
+    },
+    {
+      "scene_number": 5,
+      "title": "The Five-Second Interception",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "Garage doorway threshold, brutal close quarters hand to hand interception",
+      "character_action_prompt": "cinematic action shot of Aditya Varma deflecting armed attacker's wrist, delivering powerful tactical counter-strike, rain and sweat, dark athletic physique in black, intense martial combat realism, 8k",
+      "camera_motion": "zoom_in",
+      "dialogues": [
+        {
+          "speaker": "Aditya",
+          "text": "ఎవరు పంపారు?",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-6Hz",
+          "rate": "-2%"
+        }
+      ]
+    }
+  ]
+}
