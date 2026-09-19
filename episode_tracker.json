@@ -1,29 +1,91 @@
 {
-  "current_episode": 2,
-  "history": [
+  "episode": 1,
+  "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
+  "scenes": [
     {
-      "episode": 1,
-      "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
-      "timestamp": "2026-09-19T05:32:03.009181+05:30",
-      "instagram_post_id": "17861242980692675"
+      "scene_number": 1,
+      "title": "The Shadow in the Sparks",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "standing in a dark garage workshop, welding sparks showering in background, wiping oil from muscular hands, cold dangerous tactical stare",
+      "camera_motion": "push_in",
+      "dialogues": [
+        {
+          "speaker": "Narrator",
+          "text": "హైదరాబాద్ శివారులో... అర్ధరాత్రి దాటిన వేళ...",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-4Hz",
+          "rate": "-5%"
+        }
+      ]
     },
     {
-      "episode": 1,
-      "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
-      "timestamp": "2026-09-19T05:48:38.428112+05:30",
-      "instagram_post_id": "17886530124653675"
+      "scene_number": 2,
+      "title": "The Uninvited Engine",
+      "duration": 12,
+      "active_character": "arjun",
+      "setting_description": "young mechanic looking nervously through garage shutter gaps into dark foggy rain, unmarked black SUV headlights glowing in distance",
+      "camera_motion": "pan_left",
+      "dialogues": [
+        {
+          "speaker": "Arjun",
+          "text": "అన్నా... ఈ టైమ్‌లో కస్టమర్లా? లేక దారి తప్పిన వాళ్లా?",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "+4Hz",
+          "rate": "+0%"
+        }
+      ]
     },
     {
-      "episode": 1,
-      "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
-      "timestamp": "2026-09-19T06:38:24.439544+05:30",
-      "instagram_post_id": "17934387903379802"
+      "scene_number": 3,
+      "title": "Silent Preparation",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "adult male operative Aditya Varma, slipping heavy steel wrench into black sleeve, dead serious combat readiness under swinging tungsten bulb",
+      "camera_motion": "push_in",
+      "dialogues": [
+        {
+          "speaker": "Aditya",
+          "text": "అర్జున్... లోపలికి వెళ్లి వెనుక తలుపు బోల్ట్ వెయ్యి.",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-6Hz",
+          "rate": "-3%"
+        }
+      ]
     },
     {
-      "episode": 1,
-      "title": "అంతిమ వేట - ఎపిసోడ్ 1: మొదటి అడుగు",
-      "timestamp": "2026-09-19T06:51:47.670835+05:30",
-      "instagram_post_id": "18095643776388341"
+      "scene_number": 4,
+      "title": "Breach on the Perimeter",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "two black-clad masked mercenaries jumping over concrete wall with suppressed tactical pistols into muddy alleyway",
+      "camera_motion": "pan_right",
+      "dialogues": [
+        {
+          "speaker": "Narrator",
+          "text": "పదిహేడేళ్లుగా దాక్కున్న ఆ నిజం... ఈ రాత్రి వెలుగు చూడబోతోంది.",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-4Hz",
+          "rate": "-5%"
+        }
+      ]
+    },
+    {
+      "scene_number": 5,
+      "title": "The Five-Second Interception",
+      "duration": 12,
+      "active_character": "aditya",
+      "setting_description": "Aditya Varma in close-quarters hand-to-hand combat, disarming armed attacker in doorway, rain and sweat, dark tactical athleticism",
+      "camera_motion": "zoom_in",
+      "dialogues": [
+        {
+          "speaker": "Aditya",
+          "text": "ఎవరు పంపారు?",
+          "voice": "te-IN-MohanNeural",
+          "pitch": "-6Hz",
+          "rate": "-2%"
+        }
+      ]
     }
   ]
 }
